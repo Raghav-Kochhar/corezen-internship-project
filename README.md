@@ -56,8 +56,8 @@ CoreZen Solutions/
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd "CoreZen Solutions"
+git clone https://github.com/Raghav-Kochhar/corezen-internship-project.git
+cd "corezen-internship-project"
 ```
 
 2. **Install dependencies with UV** (recommended)
